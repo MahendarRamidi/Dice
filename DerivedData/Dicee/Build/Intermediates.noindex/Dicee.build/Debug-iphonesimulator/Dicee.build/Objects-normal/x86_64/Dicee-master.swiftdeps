@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "177b98806646a8be6c2a061c3e38c92b"
+build_time: [1528468564, 237385000]
+inputs:
+  "/Users/innovationlab/Desktop/Dice/Dicee/ViewController.swift": !dirty [1507837911, 0]
+  "/Users/innovationlab/Desktop/Dice/Dicee/AppDelegate.swift": !dirty [1507830556, 0]
